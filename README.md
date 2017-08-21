@@ -1,6 +1,6 @@
 # Angular2 NginX config example
 
-### Angular2 App NginX config.
+### Angular 2(4) App NginX config.
 
 ```sh
 # Don't forget.
